@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540602991 source:/home/nevine/Documents/Codeblocks workspace/SimpleShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/types.h>
+	<string.h>
+	<signal.h>
+	<readline/readline.h>
+
